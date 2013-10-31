@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-qzlog.info({cm:${1:moduleName},cf:${2:fnName},wm:${3:will_in_moduleName},wf:${4:will_in_function}});
-]]></content>
-    <tabTrigger>qzlog_will_in_function</tabTrigger>
-    <scope>source.js</scope>
-    <description>将要进入某函数</description>
-</snippet>
-

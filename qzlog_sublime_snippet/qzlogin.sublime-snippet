@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-qzlog.info({cm:${1:moduleName},cf:${2:fnName},t:1});
-]]></content>
-    <tabTrigger>qzlog_in</tabTrigger>
-    <scope>source.js</scope>
-    <description>进入函数</description>
-</snippet>
