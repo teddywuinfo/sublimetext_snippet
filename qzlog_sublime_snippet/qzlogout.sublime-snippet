@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+qzlog.info({cm:${1:moduleName},cf:${2:fnName},t:2});
+]]></content>
+    <tabTrigger>qzlog_out</tabTrigger>
+    <scope>source.js</scope>
+    <description>退出函数</description>
+</snippet>

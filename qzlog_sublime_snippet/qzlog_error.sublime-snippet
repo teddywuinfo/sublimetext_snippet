@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+qzlog.error({cm:${1:moduleName},cf:${2:fnName},n:"${3:错误信息}"}});
+]]></content>
+    <tabTrigger>qzlog_error</tabTrigger>
+    <scope>source.js</scope>
+    <description>qzlog.error</description>
+</snippet>

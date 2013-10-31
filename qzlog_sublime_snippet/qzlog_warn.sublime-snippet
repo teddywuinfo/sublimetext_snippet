@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+qzlog.warn({cm:${1:moduleName},cf:${2:fnName},n:"${3:警告提示语}"});
+]]></content>
+    <tabTrigger>qzlog_warn</tabTrigger>
+    <scope>source.js</scope>
+    <description>qzlog.warn</description>
+</snippet>

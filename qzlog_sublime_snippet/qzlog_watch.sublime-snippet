@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+qzlog.info({cm:${1:moduleName},cf:${2:fnName},w:{${3:变量名} :${4:变量值} },n:"${5:备注}"});
+]]></content>
+    <tabTrigger>qzlog_watch</tabTrigger>
+    <scope>source.js</scope>
+    <description>监视变量</description>
+</snippet>
